@@ -28,7 +28,7 @@ Zaman kaybetmeden kendi projeni eklemek için şu adımları izle:
    - `Submissions/Ad-Soyad/Proje-Adi/`
 3. **Projeni Hazırla:** Kodlarını ekle ve mutlaka projenin ne işe yaradığını anlatan küçük bir `README.md` ekle.
 4. **Pull Request (PR):** Değişikliklerini gönderirken PR başlığına `[PROJE] - Proje Adı` yazmayı unutma.
-
+* **Ayrıntılı Bilgi İçin** [guides/github-setup.md](./Rehberler(Guides)/github-setup.md) dosyasını oku.
 ---
 
 ## 📝 Proje Klasörü İçin Şablon (Tavsiye)
@@ -45,9 +45,9 @@ Kendi klasörünün içine ekleyeceğin `README.md` dosyasında şu bilgilerin o
 
 ## 🤝 Yardımlaşma ve Fikir Havuzu
 
-* **Bir fikrin mi var?** Ama tek başına yapmak istemiyor musun? `Discussions` sekmesine git ve "Proje Fikri" başlığı aç.
+* **Bir fikrin mi var?** Ama tek başına yapmak istemiyor musun? **[Discussions](https://github.com/orgs/GaziFintech/discussions)** sekmesine git ve "Proje Fikri" başlığı aç.
 * **Takıldın mı?** Kodunda bir hata varsa ilgili arkadaşını etiketle veya bir `Issue` oluştur.
 
 > "Yalnızca öğrenmiyoruz, aynı zamanda inşa ediyoruz."
 
-**Gazi Finansal Teknolojiler Topluluğu**
+**Gazi Finansal Teknolojiler Topluluğu - Proje Ekibi Lideri Arif Furkan Aytekin** 
